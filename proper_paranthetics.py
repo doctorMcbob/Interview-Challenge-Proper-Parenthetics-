@@ -1,4 +1,8 @@
 def fn(s):
+    """
+    shows the state of parenthasies
+    if
+    """
     s=list(s)
     s.reverse()
     n=0
